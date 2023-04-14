@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: #FACB75;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+h1, h2{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+header h1{
+	font-size: 50px;
+}
+	
+
+header img{
+	border-radius: 200px;
+	width: 500px;
+    border: 9px solid #497BB6;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+	margin-top: -20px;
+}
+
+h2{
+	font-size: 35px;
+	color: #497BB6;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: #497BB6;
+}
+a:hover{
+	color: white;
+	background-color: #483a94;
+}	
+
+footer{
+	background-color: #FACB75;
+	text-align: center;
+	padding: 25px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: lightgrey;
+	font-style: italic;
+	margin: -20px 71px 0;
+}
