@@ -1,0 +1,32 @@
+body{
+	background-color: peachpuff;
+}
+h1{
+	font-size: 30px;
+	color: #B451D7;
+}
+
+h2{
+	color: lightpink;
+	font-size: 20px;
+}
+
+h2{
+	color: lightpink;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: teal;
+}
+
+h1 span{
+	color: seagreen;
+}
